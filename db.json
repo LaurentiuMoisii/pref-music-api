@@ -1,0 +1,113 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "body": "Laur comment",
+      "postId": 1,
+      "userId": 1
+    },
+    {
+      "userId": 2,
+      "body": "test ",
+      "id": 3
+    },
+    {
+      "body": "yas",
+      "id": 4
+    },
+    {
+      "userId": 4,
+      "body": "4343434",
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "body": "pac pac",
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "body": "yas",
+      "id": 7
+    },
+    {
+      "userId": 3,
+      "body": "asdasdasdad",
+      "id": 8
+    },
+    {
+      "body": "1212",
+      "id": 9
+    },
+    {
+      "body": "1212",
+      "id": 10
+    },
+    {
+      "userId": 3,
+      "body": "123445667",
+      "id": 11
+    },
+    {
+      "userId": 3,
+      "body": "24323534564365645654",
+      "id": 12
+    },
+    {
+      "userId": 3,
+      "body": "675757575675677",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "body": "ceva ceva ",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "body": "wqwewqeqweqwewqeqweqweqwe",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "body": "wqwewqeqweqwewqeqweqweqwe",
+      "id": 16
+    }
+  ],
+  "users": [
+    {
+      "name": "Andrei",
+      "password": "Dj",
+      "id": 1,
+      "isAdmin": true
+    },
+    {
+      "name": "Laur",
+      "password": "Horse",
+      "id": 2
+    },
+    {
+      "name": "Costela",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "Mela",
+      "password": "123",
+      "id": 4
+    }
+  ]
+}
